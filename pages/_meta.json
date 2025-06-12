@@ -3,11 +3,11 @@
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "关于我们",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系我们 ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
